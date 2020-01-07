@@ -1,2 +1,2 @@
 Digital Telecommunications
-DPCM and M-PSK implementation.
+Implementation of DPCM encoder/decoder, M-PSK digital modulation.
